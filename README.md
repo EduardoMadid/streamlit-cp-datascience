@@ -24,10 +24,14 @@ cd <NOME_DO_PROJETO>
 ```
 
 2. Instale as dependências:
+```bash
 pip install -r requirements.txt
+```
 
 3. Execute o Streamlit:
+```bash
 streamlit run Home.py
+```
 
 ## Tecnologias Utilizadas
 
